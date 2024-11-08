@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninka\\Downloads\\MasterPol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|c:\\users\\ninka\\downloads\\masterpol\\masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\saleshistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\saleshistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\editpartnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\editpartnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\addpartnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\addpartnerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\emptystringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\emptystringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\saleshistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\saleshistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\editpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\editpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\addpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\addpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\emptytexttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\emptytexttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\materials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\masterpolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\masterpolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|C:\\Users\\ninka\\Downloads\\MasterPol\\masterpol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{71D80630-1FB7-4554-8E58-461549333805}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPartnerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\AddPartnerWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\AddPartnerWindow.xaml",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\AddPartnerWindow.xaml",
+              "RelativeToolTip": "MasterPol\\AddPartnerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T08:29:37.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T10:12:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditPartnerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EditPartnerWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\EditPartnerWindow.xaml",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EditPartnerWindow.xaml",
+              "RelativeToolTip": "MasterPol\\EditPartnerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T08:08:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\SalesHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistoryWindow.xaml",
+              "RelativeToolTip": "MasterPol\\SalesHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T11:24:15.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\SalesHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistoryWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\SalesHistoryWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:45:30.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\DiscountCalculator.cs",
+              "RelativeDocumentMoniker": "MasterPol\\DiscountCalculator.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\DiscountCalculator.cs",
+              "RelativeToolTip": "MasterPol\\DiscountCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:17:59.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partners.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Partners.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Partners.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Partners.cs",
+              "RelativeToolTip": "MasterPol\\Partners.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Products.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Products.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Products.cs",
+              "RelativeToolTip": "MasterPol\\Products.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:12:31.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditPartnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EditPartnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\EditPartnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EditPartnerWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\EditPartnerWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:12:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmptyStringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EmptyStringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "MasterPol\\EmptyStringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EmptyStringToVisibilityConverter.cs",
+              "RelativeToolTip": "MasterPol\\EmptyStringToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:19:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPartnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\AddPartnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\AddPartnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\AddPartnerWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\AddPartnerWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwCcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:31:47.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmptyTextToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EmptyTextToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "MasterPol\\EmptyTextToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\EmptyTextToVisibilityConverter.cs",
+              "RelativeToolTip": "MasterPol\\EmptyTextToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:54:13.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistory.cs",
+              "RelativeDocumentMoniker": "MasterPol\\SalesHistory.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\SalesHistory.cs",
+              "RelativeToolTip": "MasterPol\\SalesHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:31.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Employees.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Employees.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Employees.cs",
+              "RelativeToolTip": "MasterPol\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:26:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\App.config",
+              "RelativeDocumentMoniker": "MasterPol\\App.config",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\App.config",
+              "RelativeToolTip": "MasterPol\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T10:28:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Suppliers.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Suppliers.cs",
+              "RelativeToolTip": "MasterPol\\Suppliers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Materials.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Materials.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Materials.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\Materials.cs",
+              "RelativeToolTip": "MasterPol\\Materials.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:45:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MasterPolModel.cs",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MasterPolModel.cs",
+              "RelativeDocumentMoniker": "MasterPol\\MasterPolModel.cs",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\MasterPolModel.cs",
+              "RelativeToolTip": "MasterPol\\MasterPolModel.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAkwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:26:27.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\App.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\App.xaml",
+              "ToolTip": "C:\\Users\\ninka\\Downloads\\MasterPol\\MasterPol\\App.xaml",
+              "RelativeToolTip": "MasterPol\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T10:45:21.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
